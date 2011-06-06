@@ -1,7 +1,8 @@
-== History ==
+# Story
+
 I read [this story][] about blocking out one's time in 30 minute chunks. I wanted a way of knowing when the transition happens, and I wanted to do something with [node.js][].
 
-== Dependencies ==
+# Dependencies
 * node.js
 * espeak
 
