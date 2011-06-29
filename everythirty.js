@@ -1,6 +1,6 @@
 var exec = require('child_process').exec
 
-var unit = 15 * 60;
+var unit = 30 * 60;
 
 function cur_time(c) {
     exec('date +%s',
